@@ -14,4 +14,4 @@ eg: being able to comment while not interrupting your vtuber stream consumption 
 
 ### Enjoy !
 
-This was a simple passtime project of mine, feel free to share, modify, suggest changes, become pro at typing , have fun !
+This was a simple passtime project of mine, feel free to share, modify, suggest changes, become pro at typing and most importantly have fun !
