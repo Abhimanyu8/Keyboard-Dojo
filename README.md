@@ -19,6 +19,6 @@ This was a simple passtime project of mine, feel free to share, modify, suggest 
 
 ## How to play :
 
-1. Download using the [GitHub .zip download](https://github.com/Abhimanyu8/Keyboard-Dojo/archive/refs/heads/main.zip) option and unzip kudasai !
+1. Download using the [GitHub .zip download](https://github.com/Abhimanyu8/Keyboard-Dojo/archive/refs/heads/main.zip) option and unzip .
 2. Open Keyboard-dojo.html , press ( `f11` ) for fullscreen ! (* ^ ω ^)
 
