@@ -21,6 +21,8 @@ This was a simple passtime project of mine, feel free to share, modify, suggest 
 
 [Click Me!!](https://abhimanyu8.github.io/Keyboard-Dojo/)
 
+#### Or, if you want to run it locally :
+
 1. Download using the [GitHub .zip download](https://github.com/Abhimanyu8/Keyboard-Dojo/archive/refs/heads/main.zip) option and unzip .
 2. Open Keyboard-dojo.html , press ( `f11` ) for fullscreen ! (* ^ ω ^)
 
