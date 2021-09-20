@@ -19,7 +19,7 @@ This was a simple passtime project of mine, feel free to share, modify, suggest 
 
 ## How to play :
 
-[Click Me!!](https://abhimanyu8.github.io/Keyboard-Dojo/)
+[(≧∇≦)ﾉ Click Me!!](https://abhimanyu8.github.io/Keyboard-Dojo/)
 
 #### Or, if you want to run it locally :
 
